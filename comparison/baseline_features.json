@@ -1,0 +1,844 @@
+{
+  "ours_selected": [
+    {
+      "name": "world_000",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.9895833333333333,
+        "turnover": 0.1695128657262278,
+        "growth": 0.4958333333333333,
+        "shrink": 0.4833333333333334,
+        "action_effect": 0.2222222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_001",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.2833333333333333,
+        "turnover": 0.11757322416145946,
+        "growth": 0.10833333333333332,
+        "shrink": 0.12291666666666667,
+        "action_effect": 0.2777777777777778,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2777777777777778,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_005",
+      "features": {
+        "autonomous_change": 0.020833333333333332,
+        "driven_change": 0.09583333333333334,
+        "turnover": 0.027600899964091208,
+        "growth": 0.029166666666666664,
+        "shrink": 0.0625,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_008",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.022916666666666665,
+        "turnover": 0.004326923076923077,
+        "growth": 0.008333333333333333,
+        "shrink": 0.0020833333333333333,
+        "action_effect": 0.2222222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2222222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_013",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.7398958333333335,
+        "growth": 0.4041666666666666,
+        "shrink": 0.425,
+        "action_effect": 0.027777777777777776,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_016",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.4125,
+        "turnover": 0.06045149162554494,
+        "growth": 0.21041666666666664,
+        "shrink": 0.19166666666666668,
+        "action_effect": 0.3055555555555556,
+        "delayed_effect": 0,
+        "persistent_effect": 0.19444444444444445,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_022",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.13958333333333334,
+        "turnover": 0.020956929780459196,
+        "growth": 0.075,
+        "shrink": 0.06458333333333334,
+        "action_effect": 0.4444444444444444,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_029",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.06666666666666667,
+        "turnover": 0.025717592592592587,
+        "growth": 0.052083333333333336,
+        "shrink": 0.010416666666666666,
+        "action_effect": 0.027777777777777776,
+        "delayed_effect": 0,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_035",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.018749999999999996,
+        "turnover": 0.013541666666666665,
+        "growth": 0,
+        "shrink": 0.018749999999999996,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_045",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.004166666666666667,
+        "turnover": 0.0024305555555555556,
+        "growth": 0.0020833333333333333,
+        "shrink": 0.0020833333333333333,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_050",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.02708333333333333,
+        "turnover": 0.013478535353535354,
+        "growth": 0.008333333333333333,
+        "shrink": 0.014583333333333334,
+        "action_effect": 0.3333333333333333,
+        "delayed_effect": 0,
+        "persistent_effect": 0.3333333333333333,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_056",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.09020746359441202,
+        "growth": 0.4666666666666667,
+        "shrink": 0.4395833333333333,
+        "action_effect": 0.19444444444444445,
+        "delayed_effect": 0,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_057",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.0625,
+        "turnover": 0.0625,
+        "growth": 0.027083333333333338,
+        "shrink": 0.035416666666666666,
+        "action_effect": 0.027777777777777776,
+        "delayed_effect": 0,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_076",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.175,
+        "turnover": 0.05649057539682539,
+        "growth": 0.07708333333333334,
+        "shrink": 0.08333333333333333,
+        "action_effect": 0.3333333333333333,
+        "delayed_effect": 0,
+        "persistent_effect": 0.3333333333333333,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_086",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.4367791005291005,
+        "growth": 0.2541666666666667,
+        "shrink": 0.24583333333333335,
+        "action_effect": 0.08333333333333333,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_100",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.6123614878686982,
+        "growth": 0.03958333333333333,
+        "shrink": 0.029166666666666667,
+        "action_effect": 0.1388888888888889,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_106",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.99375,
+        "turnover": 0.29676173941798917,
+        "growth": 0.35208333333333336,
+        "shrink": 0.3708333333333333,
+        "action_effect": 1,
+        "delayed_effect": 0,
+        "persistent_effect": 1,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_109",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.70625,
+        "turnover": 0.26111111111111107,
+        "growth": 0.2625,
+        "shrink": 0.26875,
+        "action_effect": 0.8888888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0.8888888888888888,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_112",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.9458333333333332,
+        "turnover": 0.35986455847914456,
+        "growth": 0.4416666666666666,
+        "shrink": 0.5041666666666667,
+        "action_effect": 0.4722222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.4722222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_116",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.058333333333333334,
+        "turnover": 0.016319444444444442,
+        "growth": 0.03333333333333333,
+        "shrink": 0.025,
+        "action_effect": 0.2777777777777778,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2777777777777778,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_125",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.4625,
+        "turnover": 0.08413071966840345,
+        "growth": 0.18958333333333335,
+        "shrink": 0.2041666666666667,
+        "action_effect": 0.9722222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.9722222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_134",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.03125,
+        "turnover": 0.010582611832611832,
+        "growth": 0.0125,
+        "shrink": 0.010416666666666666,
+        "action_effect": 0.4444444444444444,
+        "delayed_effect": 0,
+        "persistent_effect": 0.4444444444444444,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_135",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.5875,
+        "turnover": 0.37041837791837806,
+        "growth": 0.29583333333333334,
+        "shrink": 0.2916666666666667,
+        "action_effect": 0.027777777777777776,
+        "delayed_effect": 0,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_141",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.04583333333333334,
+        "turnover": 0.011932032428355957,
+        "growth": 0.020833333333333336,
+        "shrink": 0.025,
+        "action_effect": 0.2222222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2222222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_147",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.48039998196248196,
+        "growth": 0.36875,
+        "shrink": 0.29166666666666663,
+        "action_effect": 0.4722222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.4722222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_152",
+      "features": {
+        "autonomous_change": 0.020833333333333332,
+        "driven_change": 0.10416666666666667,
+        "turnover": 0.017073701693977855,
+        "growth": 0.022916666666666665,
+        "shrink": 0.054166666666666675,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_153",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.7641298675398627,
+        "growth": 0.4854166666666666,
+        "shrink": 0.5145833333333333,
+        "action_effect": 0.2222222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2222222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_159",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.6625,
+        "turnover": 0.23897817460317458,
+        "growth": 0.23333333333333334,
+        "shrink": 0.22916666666666666,
+        "action_effect": 1,
+        "delayed_effect": 0,
+        "persistent_effect": 1,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_169",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.7958333333333334,
+        "turnover": 0.3076098736017217,
+        "growth": 0.31875,
+        "shrink": 0.3229166666666667,
+        "action_effect": 0.2777777777777778,
+        "delayed_effect": 0,
+        "persistent_effect": 0.2777777777777778,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_170",
+      "features": {
+        "autonomous_change": 0.010416666666666666,
+        "driven_change": 0.8083333333333333,
+        "turnover": 0.33742709836459805,
+        "growth": 0.4145833333333333,
+        "shrink": 0.39375,
+        "action_effect": 0.3611111111111111,
+        "delayed_effect": 0,
+        "persistent_effect": 0.3611111111111111,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_174",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 0.9958333333333332,
+        "turnover": 0.392236388735815,
+        "growth": 0.4708333333333333,
+        "shrink": 0.51875,
+        "action_effect": 0.3888888888888889,
+        "delayed_effect": 0,
+        "persistent_effect": 0.3888888888888889,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "world_191",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.9119698953580535,
+        "growth": 0.5,
+        "shrink": 0.5,
+        "action_effect": 0.05555555555555555,
+        "delayed_effect": 0,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    }
+  ],
+  "autumn_public": [
+    {
+      "name": "27VWC",
+      "features": {
+        "autonomous_change": 0.0625,
+        "driven_change": 0.11875,
+        "turnover": 0.009586238414363412,
+        "growth": 0.004166666666666667,
+        "shrink": 0.0125,
+        "action_effect": 0.6388888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0.6388888888888888,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.03125
+      }
+    },
+    {
+      "name": "7WWW9",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.3770833333333333,
+        "turnover": 0.20340277777777774,
+        "growth": 0.004166666666666667,
+        "shrink": 0.0125,
+        "action_effect": 0.1111111111111111,
+        "delayed_effect": 0,
+        "persistent_effect": 0.1111111111111111,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.050156739811912224
+      }
+    },
+    {
+      "name": "7XF97",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.6083333333333334,
+        "turnover": 0.10554560171493768,
+        "growth": 0.14375,
+        "shrink": 0.08333333333333333,
+        "action_effect": 0.19444444444444445,
+        "delayed_effect": 0.027777777777777776,
+        "persistent_effect": 0.19444444444444445,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.012121212121212121
+      }
+    },
+    {
+      "name": "83WKQ",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.8645833333333333,
+        "turnover": 0.7409268616949525,
+        "growth": 0.2875,
+        "shrink": 0.13125,
+        "action_effect": 0.8888888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0.8888888888888888,
+        "stochastic_difference": 0.8125,
+        "observation_aliasing": 0.029411764705882353
+      }
+    },
+    {
+      "name": "ADA85",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.375,
+        "turnover": 0.15358693968068962,
+        "growth": 0.04166666666666667,
+        "shrink": 0.04166666666666667,
+        "action_effect": 0.3055555555555556,
+        "delayed_effect": 0,
+        "persistent_effect": 0.3055555555555556,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.06542056074766354
+      }
+    },
+    {
+      "name": "AW9WD",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.075,
+        "turnover": 0.003840682788051209,
+        "growth": 0,
+        "shrink": 0,
+        "action_effect": 0.8888888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.012853470437017995
+      }
+    },
+    {
+      "name": "BT3GB",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.7833333333333334,
+        "turnover": 0.3378220498239245,
+        "growth": 0.14166666666666666,
+        "shrink": 0.04166666666666667,
+        "action_effect": 0.9722222222222222,
+        "delayed_effect": 0,
+        "persistent_effect": 0.9722222222222222,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "DGG2C",
+      "features": {
+        "autonomous_change": 0.9791666666666666,
+        "driven_change": 0.9791666666666666,
+        "turnover": 0.34786152452978425,
+        "growth": 0.15833333333333333,
+        "shrink": 0.2,
+        "action_effect": 0.027777777777777776,
+        "delayed_effect": 0.027777777777777776,
+        "persistent_effect": 0.027777777777777776,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.1694915254237288
+      }
+    },
+    {
+      "name": "DQ8GC",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.4833333333333333,
+        "turnover": 0.16215277777777776,
+        "growth": 0.024999999999999998,
+        "shrink": 0.02708333333333333,
+        "action_effect": 0.1111111111111111,
+        "delayed_effect": 0,
+        "persistent_effect": 0.1111111111111111,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.055
+      }
+    },
+    {
+      "name": "E3V6M",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.7333333333333333,
+        "turnover": 0.6372924933862432,
+        "growth": 0.0020833333333333333,
+        "shrink": 0.0020833333333333333,
+        "action_effect": 1,
+        "delayed_effect": 0,
+        "persistent_effect": 1,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "EAHCW",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.13124999999999998,
+        "turnover": 0.047666674454358265,
+        "growth": 0.08541666666666667,
+        "shrink": 0,
+        "action_effect": 0.8888888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0.8888888888888888,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.017921146953405017
+      }
+    },
+    {
+      "name": "F5W3N",
+      "features": {
+        "autonomous_change": 0.9583333333333334,
+        "driven_change": 0.9833333333333334,
+        "turnover": 0.42267195640968963,
+        "growth": 0.16041666666666668,
+        "shrink": 0.16458333333333333,
+        "action_effect": 0.08333333333333333,
+        "delayed_effect": 0,
+        "persistent_effect": 0.08333333333333333,
+        "stochastic_difference": 0.9479166666666666,
+        "observation_aliasing": 0.08247422680412371
+      }
+    },
+    {
+      "name": "N2NTD",
+      "features": {
+        "autonomous_change": 1,
+        "driven_change": 1,
+        "turnover": 0.23784556833326853,
+        "growth": 0.004166666666666667,
+        "shrink": 0.0125,
+        "action_effect": 0.08333333333333333,
+        "delayed_effect": 0,
+        "persistent_effect": 0.08333333333333333,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.2346368715083799
+      }
+    },
+    {
+      "name": "NRDF6",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.1625,
+        "turnover": 0.01772523862757206,
+        "growth": 0.04583333333333332,
+        "shrink": 0.05208333333333333,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "NTQ4Y",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.22083333333333335,
+        "turnover": 0.0362084581740587,
+        "growth": 0.10208333333333333,
+        "shrink": 0.0125,
+        "action_effect": 0.1388888888888889,
+        "delayed_effect": 0,
+        "persistent_effect": 0.1388888888888889,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "QFSVC",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.41666666666666663,
+        "turnover": 0.06912878787878787,
+        "growth": 0,
+        "shrink": 0.004166666666666667,
+        "action_effect": 0.1111111111111111,
+        "delayed_effect": 0,
+        "persistent_effect": 0.1111111111111111,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "QQM74",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.6145833333333334,
+        "turnover": 0.6066702794056219,
+        "growth": 0.10208333333333335,
+        "shrink": 0.07708333333333334,
+        "action_effect": 0.05555555555555555,
+        "delayed_effect": 0.05555555555555555,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.28901734104046245
+      }
+    },
+    {
+      "name": "S2KT7",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.6354166666666667,
+        "turnover": 0.3636210317460316,
+        "growth": 0.14583333333333331,
+        "shrink": 0.16875,
+        "action_effect": 0.8888888888888888,
+        "delayed_effect": 0,
+        "persistent_effect": 0.8888888888888888,
+        "stochastic_difference": 0.8541666666666666,
+        "observation_aliasing": 0.028846153846153848
+      }
+    },
+    {
+      "name": "VA6FQ",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.2104166666666667,
+        "turnover": 0.012980539089257406,
+        "growth": 0.062499999999999986,
+        "shrink": 0,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0
+      }
+    },
+    {
+      "name": "VQJH6",
+      "features": {
+        "autonomous_change": 0,
+        "driven_change": 0.4291666666666666,
+        "turnover": 0.20163611186157956,
+        "growth": 0.09166666666666665,
+        "shrink": 0.1,
+        "action_effect": 0,
+        "delayed_effect": 0,
+        "persistent_effect": 0,
+        "stochastic_difference": 0,
+        "observation_aliasing": 0.0037593984962406013
+      }
+    }
+  ],
+  "provenance": {
+    "protocol": "Unchanged five 96-step driven probes, noop, alternate seed, 36 interventions.",
+    "source_artifact_sha256": {
+      "autumn_rules/evaluation/rules/world_000.json": "1f42ff1eac621b38d928ffc4abc7db8775f320dfa09ee54d09aebe0b24f5e570",
+      "autumn_rules/evaluation/rules/world_001.json": "32188594e4f3fefaebd702df5214d08800a21cc18bbe745629742a5427139eea",
+      "autumn_rules/evaluation/rules/world_005.json": "7e657f474e071ee777f17ffdca972f7ab4dcead5a77b3ce7a2090130e41633ea",
+      "autumn_rules/evaluation/rules/world_008.json": "c678cb5c070f6dce893a1ed8ec29f68aa43203059af2a09e7c56c2373c9c1d02",
+      "autumn_rules/evaluation/rules/world_013.json": "d5ad7fda9c886beb255bb2b81887c190ae035a2ada4bcaaa9d686486ebe6f3c3",
+      "autumn_rules/evaluation/rules/world_016.json": "7e4333a1df83d7e77a19abd23dff3bbd1cc571f3ae6da6cb3d9fe6199fe4ccb5",
+      "autumn_rules/evaluation/rules/world_022.json": "4ae53055b47b79a87e059ada63e09c457a82e7b2c92580e671ea1038566d6de5",
+      "autumn_rules/evaluation/rules/world_029.json": "94f838275592fc4d911fff0fc010edeb64bb797844a889c27c61d71ba9bb6426",
+      "autumn_rules/evaluation/rules/world_035.json": "3066d7b5e2e8703aac9573a501e7e58d5a93ab552f1525ac0b0397145104b801",
+      "autumn_rules/evaluation/rules/world_045.json": "c6acfc9a3dcfa539209093d459a125f4f2d124cfb1b100838df260213b4a6c43",
+      "autumn_rules/evaluation/rules/world_050.json": "64b000037e7ff4a98142186ec59434db072de685e66c6c9bed7643e317e78ae1",
+      "autumn_rules/evaluation/rules/world_056.json": "759c47207467a5117c59a9e0499ec124d2bcdb9e8d3b50500ae14a7158d36712",
+      "autumn_rules/evaluation/rules/world_057.json": "fd964783c814e8c748c68718122a4da9de8d720cba21c9ad09cafd8963ff1fc4",
+      "autumn_rules/evaluation/rules/world_076.json": "41c441b509c1a344b489bae35c90973d6192a177ff93fa8b9e26f008c5ba865e",
+      "autumn_rules/evaluation/rules/world_086.json": "7599df0316211f238f2e4106c51e948c339db89e5273f585770c14dacb6e5d68",
+      "autumn_rules/evaluation/rules/world_100.json": "8e0952ae794e32df0a77b2032418ac6cbd4062f5f22913601230cd382b0c2a3e",
+      "autumn_rules/evaluation/rules/world_106.json": "0b27660d05cbd407721d5b934ce70f7d21fa1fc96ff6a5750cc37b0f19854288",
+      "autumn_rules/evaluation/rules/world_109.json": "b15e6f12d9d70604779b0e8b88682a6150cb439ceea7e88f21fa388021d8fcf9",
+      "autumn_rules/evaluation/rules/world_112.json": "0cda976460579ace8b1ab339f09d8322c311332dd69d164ddf806de74e6da04a",
+      "autumn_rules/evaluation/rules/world_116.json": "706b8d4d579eaf029609df24bd5f0905a255ed13ec3b47504d95890e5673abaf",
+      "autumn_rules/evaluation/rules/world_125.json": "fc321011365b286903a324b9e58551112b10361e346218ec945ff2b8d83e12a0",
+      "autumn_rules/evaluation/rules/world_134.json": "db6733a68c5b11566a8549f28269efb3ddd6c5635e63c4424b26e5a50d497fe2",
+      "autumn_rules/evaluation/rules/world_135.json": "2bcad94bffb8f67a688f2ebfe572219b0061908acb0e9c42b4eab56118acb0cf",
+      "autumn_rules/evaluation/rules/world_141.json": "8487c34c7c21295e97c55dfc736d572f25e87642234b0d4dd0162e9e56a34f00",
+      "autumn_rules/evaluation/rules/world_147.json": "2a7fbf7357c7d4d9d7a30a8c9bde890a1f7ee03d7b324ce3a88701fa8d8db547",
+      "autumn_rules/evaluation/rules/world_152.json": "94ffd18a0fc80d8d2b2dc82b86ce5ff808493ff48d24cae92657f455b692a72e",
+      "autumn_rules/evaluation/rules/world_153.json": "f4a6254fb5e23d4b3f97abb86f700ab6323fc0cfef60a24ac8947d967d072824",
+      "autumn_rules/evaluation/rules/world_159.json": "1b1d13a40969ca67adc0ecdb36f29416d370cd684745b9e0778559d4fe3bf3b1",
+      "autumn_rules/evaluation/rules/world_169.json": "f7b2747f3356cee17c82c2897f610f1a9afea098929835f4c42c051d8525c183",
+      "autumn_rules/evaluation/rules/world_170.json": "2a136994889f1b869bcab44cc769cd6fb194049ad33f6d819b36d3e71336f278",
+      "autumn_rules/evaluation/rules/world_174.json": "7316db342e8810693ed7870e610ee5463ff682b199b53b511c5fea514eb25d6a",
+      "autumn_rules/evaluation/rules/world_191.json": "01317182af49a5c39fb64fa74f18520be21e23ffe2d8d289c10688f4d233bb23",
+      "autumn_rules/evaluation/original/27VWC.json": "7a2e6bf888f16e93a78bad51f13af62a4c77d521f2d526ab61f976f424b5d654",
+      "autumn_rules/evaluation/original/7WWW9.json": "dedd9189e5b8b7854bc4fc58939d48af8a04d22acf80e38a865875a247015cc0",
+      "autumn_rules/evaluation/original/7XF97.json": "6a4834942d6509b21cb50e0b19f6747766e69837f64f5d1734d7953aa0cff6ce",
+      "autumn_rules/evaluation/original/83WKQ.json": "4e721e36eb193ba64dd2825573b884118a1642dfe4dbeb3bcdb10e3113cf7e4d",
+      "autumn_rules/evaluation/original/ADA85.json": "3a1067260f7e5bba0fa82c4563ae5f3f7a2483b73b37acddbb7d62ddb4675b9b",
+      "autumn_rules/evaluation/original/AW9WD.json": "dffc4b03d0f9fd6167712fcd5c0bb58eb9ad00619d266671e2c3196e49e0359a",
+      "autumn_rules/evaluation/original/BT3GB.json": "1cf4ea84f7e9474022f83317dcd13e253992bfcf808dfa93385f54dc41b837fb",
+      "autumn_rules/evaluation/original/DGG2C.json": "280e9309fd44533562f19d0862835e670a27dd8ffe85bc90a9170cafbef0f2a3",
+      "autumn_rules/evaluation/original/DQ8GC.json": "e546f8daf629770862d691f2f6e273451890bd13152ce3bf00d714013f725dd6",
+      "autumn_rules/evaluation/original/E3V6M.json": "7e9d8642a2beeca8032cd64a91283544d1647df2df0c3b1955a45df68dbb27de",
+      "autumn_rules/evaluation/original/EAHCW.json": "2f69b5bfa5f5c19da163ec3b9c038e58cb00443ea6a49a2adb93a84b2d6d1191",
+      "autumn_rules/evaluation/original/F5W3N.json": "f5c9aca98139a1dafc1036aa2396f918ef8b296c4e10e9d7b4fe2521a2287157",
+      "autumn_rules/evaluation/original/N2NTD.json": "f877c8763d3f7b4c04514e0d066323f8e505296ae91e426cb7a2e88de94a90f5",
+      "autumn_rules/evaluation/original/NRDF6.json": "a64e9704da376f35878575215338ec115b3e33ec77f38d1d1f8eab5481eb86b5",
+      "autumn_rules/evaluation/original/NTQ4Y.json": "8627ca706b6d07beb4415bb06a92960cfacd59a808bbd320f26d629169b8745e",
+      "autumn_rules/evaluation/original/QFSVC.json": "dcbc800205c957cf39b455d90dc3a3e093dacce3c06b67b45273a71f50eac28c",
+      "autumn_rules/evaluation/original/QQM74.json": "475d3f74e34d1e94c9566070ae688f74fb1634289fcbdc7c3e704d7d8049c1c2",
+      "autumn_rules/evaluation/original/S2KT7.json": "053f1f07acd698f86598ace001828837f9a3797106fea446ffead1852ea8648b",
+      "autumn_rules/evaluation/original/VA6FQ.json": "686249859785b6e9b029c9fd66c5b75f8f0157f1f71241366e09b5d4fb350f78",
+      "autumn_rules/evaluation/original/VQJH6.json": "55d7ded22d492a976e1f5ce523cd443d6b16ef43cc0f20c34b1f4f02d41a1a23"
+    },
+    "original_probe_sha256": "7bd361ab34799c451582061df2bd463afba78eedbf3fa2f8cd3cdc9d619bc18d"
+  }
+}

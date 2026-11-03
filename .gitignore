@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+generator/generated/
+generator/generation_ledger.json
+generator/selection.json
+comparison/results/
+new_world/

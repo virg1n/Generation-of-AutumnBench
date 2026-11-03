@@ -1,0 +1,20 @@
+Generation of AutumnBench-like worlds
+Requires Python 3.11+ and Node.js 22+. Run commands from this repository root.
+Install: python -m pip install -r requirements.txt
+generator/worlds.py: rules, state transitions and Autumn export.
+generator/generate.py: reachable goals, causal checks and novelty selection.
+generator/sample.py: generate one candidate; rejection is possible.
+Create one world: python generator/sample.py --seed 31013 --out new_world
+Generate/select a batch: python generator/generate.py --seed 31000 --count 192 --keep 32
+Check semantics: python -B generator/test_rules.py
+Check a generated world in Autumn: node comparison/check_world.mjs new_world
+comparison/: matching behavioral probes, metrics and public reference worlds.
+Compare the saved 32-world dataset: python comparison/compare.py
+Compare a new batch: python comparison/compare.py --worlds generator/generated
+Remeasure reference worlds: python comparison/compare.py --refresh-autumn
+Results: comparison/results/summary.json, features.csv and comparison.png.
+baseline_features.json contains frozen measurements, not generated games or agent traces.
+The generator uses fixed-position colored squares; it does not generate moving objects.
+Metrics describe behavior, not human interest, full mechanism coverage or overall quality.
+Public reference: 20 AutumnBench worlds; https://github.com/BasisResearch/MARAProtocol
+Runtime: Autumn.cpp v1; https://github.com/BasisResearch/Autumn.cpp (bundled WASM).

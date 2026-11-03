@@ -1,0 +1,190 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 129,
+      "sha256": "3bd21541c1c17dbe1afdf14856400d2528571c84a2932bf2071cec8fc4b7e7ec"
+    },
+    {
+      "path": "readme.me",
+      "bytes": 1480,
+      "sha256": "b210aa3b1186e634eb1506966459831da6a656a13453c7c8a9ea5257a3efae7a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 33,
+      "sha256": "39ad0910d6f2aec020919ca12f4678e1cd079b85785162ab3261f73fcc4bfec3"
+    },
+    {
+      "path": "generator/generate.py",
+      "bytes": 7460,
+      "sha256": "a3158137053e84c0f7a7523be50e98fa8ea9a049da882243f15806ff5d2852fd"
+    },
+    {
+      "path": "generator/sample.py",
+      "bytes": 720,
+      "sha256": "9e1e5939068474ed008c18ae9630b23f9666b7e94a909814b843154810645887"
+    },
+    {
+      "path": "generator/test_rules.py",
+      "bytes": 1396,
+      "sha256": "bb15a3fc36838d75925879b71a4d66c06702fe67c2ba9f5ff025764df1f236aa"
+    },
+    {
+      "path": "generator/worlds.py",
+      "bytes": 7430,
+      "sha256": "230a97361cb5c71b272a3abf045d37a0e57429ac2144018544afec128f3228ca"
+    },
+    {
+      "path": "comparison/autumnbench/27VWC.sexp",
+      "bytes": 2110,
+      "sha256": "8501254fcb02af6f04c0e84d21dd002048e1bd182b3c57a6b1bbe668bbd48200"
+    },
+    {
+      "path": "comparison/autumnbench/7WWW9.sexp",
+      "bytes": 1563,
+      "sha256": "5c8190b9dbc6a9cdc0683eb699d55a4d675ac08f659bd9cca1cc66623cadd374"
+    },
+    {
+      "path": "comparison/autumnbench/7XF97.sexp",
+      "bytes": 2624,
+      "sha256": "ce6de91278e7779f297c90ee6aebba02d8d4faad98258eddb8a50ef5124be1e3"
+    },
+    {
+      "path": "comparison/autumnbench/83WKQ.sexp",
+      "bytes": 432,
+      "sha256": "43d23550430c1b40f1276a476f89577a5c4f5b927bf251f12f1721b6aafe8baf"
+    },
+    {
+      "path": "comparison/autumnbench/ADA85.sexp",
+      "bytes": 1919,
+      "sha256": "fff60ff94ec44de4506687956d670c1864b40d1c71e479493dccdbd593949945"
+    },
+    {
+      "path": "comparison/autumnbench/AW9WD.sexp",
+      "bytes": 3974,
+      "sha256": "6b5dee5903b7f417a70905ddb3401d55a1701c289a1e1fc6913c2f45d502efab"
+    },
+    {
+      "path": "comparison/autumnbench/BT3GB.sexp",
+      "bytes": 1722,
+      "sha256": "75d1b0fd09726b4137f1d7c30a7e5574783381550191a36cbefe3cb85412a058"
+    },
+    {
+      "path": "comparison/autumnbench/DGG2C.sexp",
+      "bytes": 1378,
+      "sha256": "b6b4d220361074d5de72bc7038322c01067942d999db119d90e0ca3491457fef"
+    },
+    {
+      "path": "comparison/autumnbench/DQ8GC.sexp",
+      "bytes": 1409,
+      "sha256": "980df789a8068122e235b12ecc8da82c5622416a6b384dac3ca6071541d375d6"
+    },
+    {
+      "path": "comparison/autumnbench/E3V6M.sexp",
+      "bytes": 1926,
+      "sha256": "041ceb914b156637c3c71511438655e9149d56202ed2ec85a38fbb772327b463"
+    },
+    {
+      "path": "comparison/autumnbench/EAHCW.sexp",
+      "bytes": 1193,
+      "sha256": "04fa1b9e4082ff1ba3ec48ceb63a94ba36b3660184a285227d01618076c4e6f9"
+    },
+    {
+      "path": "comparison/autumnbench/F5W3N.sexp",
+      "bytes": 2986,
+      "sha256": "930c8020161523c547f8b090d228575d4ba8fdc9797029bd2e035e8f112cea02"
+    },
+    {
+      "path": "comparison/autumnbench/N2NTD.sexp",
+      "bytes": 3425,
+      "sha256": "e79480c0c697adfbb7296ffe82a1a4eccdfcd163dee3ed4745aa71cdf6aa072d"
+    },
+    {
+      "path": "comparison/autumnbench/NRDF6.sexp",
+      "bytes": 2825,
+      "sha256": "6323bbfad28f4af517450db3162307c5ef9f41d106aa6bb6234b07f2e4ead33d"
+    },
+    {
+      "path": "comparison/autumnbench/NTQ4Y.sexp",
+      "bytes": 2400,
+      "sha256": "ab13cd0ab3dbc7a7f6264da84d2d6af937d76bd44d28ed3a5336125384b36213"
+    },
+    {
+      "path": "comparison/autumnbench/QFSVC.sexp",
+      "bytes": 1151,
+      "sha256": "e4c5981158bccf51889345dfa024ba7f18ebf4dde9b7f8082b783d40942f865c"
+    },
+    {
+      "path": "comparison/autumnbench/QQM74.sexp",
+      "bytes": 880,
+      "sha256": "fbd7644a567a7617043808087bd70d8478ba90fba43ddf5a3ecd66769ea4c6c4"
+    },
+    {
+      "path": "comparison/autumnbench/S2KT7.sexp",
+      "bytes": 571,
+      "sha256": "9fe96e1d8418b6c33556f865e78b3376cc210d4fcd712b9b151d8aaf419bf8b2"
+    },
+    {
+      "path": "comparison/autumnbench/VA6FQ.sexp",
+      "bytes": 2797,
+      "sha256": "5303d367994b00b883bc77fdcc814c8400642a04bc414cb8280a677d4ba8ef13"
+    },
+    {
+      "path": "comparison/autumnbench/VQJH6.sexp",
+      "bytes": 1539,
+      "sha256": "b38da8d91e0f33c04e1c89adf4aef71eeaf26328c0f107f7a26a9fe8c2b317ae"
+    },
+    {
+      "path": "comparison/baseline_features.json",
+      "bytes": 30606,
+      "sha256": "74de59b1e7a9176018a787924388fc5d07d5f05aa135e94f8fd50a660da88993"
+    },
+    {
+      "path": "comparison/check_world.mjs",
+      "bytes": 572,
+      "sha256": "fc4e5469366e6e00a44ac2a4bc6f4ea8ba25c40cd5170db87482a5af635f4fc6"
+    },
+    {
+      "path": "comparison/compare.py",
+      "bytes": 4880,
+      "sha256": "aade9d2dc08401472c46ca65fdd2d5736cebe9b9540770ea4f6b55588c5e00e0"
+    },
+    {
+      "path": "comparison/measure_worlds.mjs",
+      "bytes": 331,
+      "sha256": "51933e482cb3c27f442c4a5cb02e02fa7c573d9194c27eea871c9e30998bc0a7"
+    },
+    {
+      "path": "comparison/metrics.py",
+      "bytes": 2822,
+      "sha256": "12cbd28cdf23d6623b68a61091a86386fa276c0512d9df21abb107e4bbe57228"
+    },
+    {
+      "path": "comparison/probe_metrics.mjs",
+      "bytes": 5174,
+      "sha256": "a9684b56e84f38617abfedc6de0a859dfc78953fd56d583a64998bdfe8dd989f"
+    },
+    {
+      "path": "comparison/runtime/interpreter_web.js",
+      "bytes": 93258,
+      "sha256": "a7f32facf2e5ad3eba019750120af47c038ee19ef8e1991f434f802cb228216a"
+    },
+    {
+      "path": "comparison/runtime/interpreter_web.wasm",
+      "bytes": 638075,
+      "sha256": "18ae5ded2d54df48e15a3a0efcc12750b158bd6e58e967ecee5114aa2f4f22e6"
+    },
+    {
+      "path": "comparison/runtime/stdlib.sexp",
+      "bytes": 8581,
+      "sha256": "c03b8332944672e7167a46a44bbc38a60ba390361a6a88f3297fd77d4c327833"
+    },
+    {
+      "path": "comparison/runtime.mjs",
+      "bytes": 2106,
+      "sha256": "25adec8abefee6549cb757ade084c5853720efc9e4f357f0cab21186010f78ea"
+    }
+  ],
+  "notes": "Compact current rule generator and behavioral comparison; no experiment archives."
+}
